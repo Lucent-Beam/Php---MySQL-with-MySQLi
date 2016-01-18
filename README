@@ -1,0 +1,11 @@
+Scripts basados de los videos de PHP, MySQL y MySQLi de CodeCourse
+
+index.php -> CRUD simple
+joins.php -> Muestra el nombre de una persona con su respectivo pais
+
+Carpeta otros_scripts
+
+	binding.php -> Insertar y obtener datos de una bd usando bind_param y bind_result
+	index.php -> Método tradicional para obtener datos de una bd
+	index_insert -> Insetar datos en una tabla mediante el url y el método GET
+	index_update -> Actualizar datos en una tabla
